@@ -1,2 +1,2 @@
-# Pokemon-XY-Texture-Pack
+# Pokemon XY HD Texture Pack
 HD Textures for Pokemon X and Y combined from various different sources
